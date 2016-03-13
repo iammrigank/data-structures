@@ -9,7 +9,10 @@ import com.mriganka.datastructures.Common.ArrayLib;
  *
  * https://en.wikipedia.org/wiki/Selection_sort
  *
- * 
+ * Time:
+ * O(n^2) : Best case, Average case, Worst case.
+ * In other words, Omega(n^2)
+ *
  */
 public class SelectionSort implements Sortable {
     private int[] array;
