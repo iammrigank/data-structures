@@ -1,6 +1,6 @@
-package com.mriganka.datastructures.Sorting;
+package com.mriganka.datastructures.sorting;
 
-import com.mriganka.datastructures.Common.ArrayLib;
+import com.mriganka.datastructures.common.ArrayLib;
 
 /**
  * Insertion Sort : Each new element is put into it's correct place in the sorted first half

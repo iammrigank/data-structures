@@ -1,8 +1,8 @@
-package com.mriganka.datastructures.Sorting;
+package com.mriganka.datastructures.sorting;
 
 /**
- * Created by mriganka on 3/13/16.
+ * interface
  */
 public interface Sortable {
-    public int[] sort();
+    int[] sort();
 }

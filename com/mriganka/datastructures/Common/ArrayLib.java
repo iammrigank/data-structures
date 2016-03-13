@@ -1,7 +1,7 @@
-package com.mriganka.datastructures.Common;
+package com.mriganka.datastructures.common;
 
 /**
- * Created by mriganka on 3/13/16.
+ * Contains some useful methods for array manipulation
  */
 public class ArrayLib {
     public static void swap(int a[] , int i, int j) {

@@ -1,6 +1,6 @@
-package com.mriganka.datastructures.Sorting;
+package com.mriganka.datastructures.sorting;
 
-import com.mriganka.datastructures.Common.ArrayLib;
+import com.mriganka.datastructures.common.ArrayLib;
 
 /**
  * Bubble Sort : Each iteration puts the largest element in the
